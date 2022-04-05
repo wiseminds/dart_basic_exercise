@@ -7,11 +7,7 @@ import 'dart:io';
 /// 
 /// to run code paste `dart basic_arithmetic_operations/simple_addition.dart ` in the terminal
 void main() {
-  stdout.write("Welcome to simple calculator, please enter a number: ");
-  int numberOne = int.parse(stdin.readLineSync() ?? '0');
-  stdout.write("Please enter another number: ");
-  int numberTwo = int.parse(stdin.readLineSync() ?? '0');
-
+  
   print('PUT YOUR RESULT HERE');
  
 }

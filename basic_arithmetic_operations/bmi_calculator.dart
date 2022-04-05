@@ -11,12 +11,7 @@ import 'dart:io';
 /// to run code paste `dart basic_arithmetic_operations/bmi_calculator.dart ` in the terminal
 
 void main() {
-  stdout.write("Welcome to simple BMI calculator, What is your height(m): ");
-
-  double height = double.parse(stdin.readLineSync() ?? '0.0');
-
-  stdout.write(" What is your weight (Kg): ");
-  double weight = double.parse(stdin.readLineSync() ?? '0.0');
+  
 
   print('PUT YOUR RESULT HERE');
 }

@@ -6,8 +6,7 @@ import 'dart:io';
 /// 
 /// to run code paste `dart basic_arithmetic_operations/odd_even_numbers.dart ` in the terminal
 void main() {
-  stdout.write("Hi, please choose a number: ");
-  int number = int.parse(stdin.readLineSync() ?? '0');
+  
 
   print('PUT YOUR RESULT HERE');
  
